@@ -1,5 +1,8 @@
 https://laravel.com/
 https://www.niagahoster.co.id/blog/laravel-tutorial/
+https://www.codepolitan.com/tujuh-tips-belajar-laravel-dengan-lebih-efektif-5882dfdd4b3a2
+https://www.codepolitan.com/cara-membuat-blog-dengan-framework-laravel-windows-instalasi-project-laravel-part-1
+
 
 instal laravel
   composer global require laravel/installer
