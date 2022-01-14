@@ -1,0 +1,10 @@
+https://laravel.com/
+
+instal laravel
+  composer global require laravel/installer
+  laravel new example-app
+  cd example-app
+  php artisan serve
+
+uninstall laravel
+  composer global remove laravel/installer
