@@ -1,4 +1,5 @@
 https://laravel.com/
+https://www.niagahoster.co.id/blog/laravel-tutorial/
 
 instal laravel
   composer global require laravel/installer
